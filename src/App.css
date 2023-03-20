@@ -1,0 +1,33 @@
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.card {
+  /* background-color: rgb(52, 41, 41); */
+  width: 300px;
+  margin: 25px;
+  border-radius: 8px;
+  margin-top: 100px;
+  padding: 15px 15px;
+}
+.receipt {
+  padding: 15px;
+  display: flex;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-weight: lighter;
+  transform: rotate(180deg);
+  font-size: 3.5rem;
+}
+.box {
+  border-radius: 10px;
+}
+.icon {
+  display: flex;
+}
+.duedate {
+  display: flex;
+  box-sizing: border-box;
+  margin-top: 18px;
+}
